@@ -54,13 +54,7 @@ function App() {
     { name: 'JavaScript', level: 90, icon: <FaJs /> },
     { name: 'React', level: 85, icon: <FaReact /> },
     { name: 'Node.js', level: 80, icon: <FaNodeJs /> },
-    { name: 'TypeScript', level: 75, icon: <SiTypescript /> },
-    { name: 'Express', level: 75, icon: <SiExpress /> },
-    { name: 'MongoDB', level: 70, icon: <SiMongodb /> },
-    { name: 'Git', level: 85, icon: <SiGit /> },
-    { name: 'Responsive Design', level: 90, icon: <GiCrosshair /> },
-    { name: 'UI/UX', level: 80, icon: <GiTargetPrize /> },
-    { name: 'Performance Opt.', level: 75, icon: <GiPistolGun /> }
+    { name: 'TypeScript', level: 75, icon: <SiTypescript /> } 
   ];
 
   const projects = [
@@ -480,7 +474,7 @@ function App() {
                       <FiMail className="contact-icon" />
                       <div>
                         <h4>Email</h4>
-                        <a href="mailto:gerald@example.com">gerald@example.com</a>
+                        <a href="mailto:bubogf@gmail.com">bubogf@gmail.com</a>
                       </div>
                     </div>
                     <div className="contact-method">
