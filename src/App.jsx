@@ -168,7 +168,7 @@ function App() {
               Projects
             </a>
             <a 
-              href="#projects" 
+              href="https://bloggerald.netlify.app/" 
               className={`mafia-nav-link ${activeSection === 'projects' ? 'active' : ''}`}
               onClick={() => setIsMenuOpen(false)}
             >
